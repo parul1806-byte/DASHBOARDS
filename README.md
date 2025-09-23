@@ -21,7 +21,7 @@ This repository contains all the interactive dashboards I’ve built so far usin
 ## **Dashboard Projects Included**
 | Project Name | Tool | Description | Data Source | Screenshot/Video |
 |--------------|------|-------------|-------------|----------------|
-| Sales Dashboard | Qlik Sense | Visualizes Units Sold, Total Sales, Targets, and Regional Performance | Excel | [Screenshot](screenshots/sales_dashboard.png) / [Video](videos/sales_dashboard.mp4) |
+| Sales Dashboard | Qlik Sense | Visualizes Units Sold, Total Sales, Targets, and Regional Performance | Excel | [Screenshot]() / [Video]("C:\Users\Dell\Videos\Recording 2025-09-23 143824.mp4") |
 | Marketing Dashboard | Power BI | Tracks campaign performance and conversions | CSV | [Screenshot](screenshots/marketing_dashboard.png) |
 | Finance Dashboard | Excel | Shows monthly revenue, expenses, and profit analysis | Excel | [Screenshot](screenshots/finance_dashboard.png) |
 
