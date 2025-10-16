@@ -53,5 +53,5 @@ This repository showcases my **hands-on experience in analytics and dashboard de
 
 ## **Future Dashboards**
 I will continue updating this repository with **new dashboards**, including live demos, advanced visualizations, and more interactive business insights projects.  
-
+"C:\Users\Dell\OneDrive\Pictures\Screenshots 1\Screenshot (25) - Copy.png"
 
